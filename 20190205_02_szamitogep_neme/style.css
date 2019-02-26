@@ -1,0 +1,27 @@
+body{
+	width: 70%;
+	color: #333333; 
+	margin: 20px auto;
+	font-family: times new roman, serif;
+	background-image: url('alap.jpg');
+	
+}
+h1{
+	text-align: center;
+	font-weight: normal;
+	font-weight: bold;	
+	
+}
+h2{
+	text-align: center;
+	font-weight: normal;
+	font-weight: bold;	
+}
+#male{
+	width: 120px;
+	float: right;
+}
+#behuz{
+	margin-left: 40px;
+}
+ul
